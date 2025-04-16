@@ -29,7 +29,7 @@ if os.path.exists(filepath):
                 jumlah = int(price1int/price2int) 
                 kembalian = int(price1int-(jumlah*price2int))
                 print(f"{name:<15} | {jumlah:>6} | {kembalian:>6}")
-        print("Terimakasih telah berbelanja di Pacil Mart!")
+        print("Terimakasih telah berbelanja di XSD Mart!")
 
     my_file.close()
 
